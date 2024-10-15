@@ -26,6 +26,31 @@ lojas_shopping = [
     "Super Beleza"
 ]
 
+genero = ["Masculino", "Feminino", "Outros", "Prefiro não Responder"]
+
+escala_satisfacao = [
+    "-",
+    "1 - Insatisfeito",
+    "2 - Pouco Satisfeito",
+    "3 - Satisfeito",
+    "4 - Bem Satisfeito",
+    "5 - Muito Satisfeito"
+]
+
+frequencia_visita = [
+    "-",
+    "Diaramente",
+    "Semanalmente",
+    "Mensalmente",
+    "Raramente"
+]
+
+sim_nao = [
+    "-",
+    "Não",
+    "Parcialmente",
+    "Sim"
+]
 
 lista_segmentos = [
     "Nenhuma",
@@ -41,6 +66,5 @@ lista_segmentos = [
     "Decoração e Utilidades Domésticas"
 ]
 
-nota = ["-",0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 
