@@ -1,0 +1,5 @@
+streamlit
+pydantic
+sqlalchemy
+python-dotenv
+pymysql  # Se você estiver usando MySQL com PyMySQ
