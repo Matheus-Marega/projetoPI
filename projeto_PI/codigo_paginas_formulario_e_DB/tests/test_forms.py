@@ -1,1 +1,0 @@
-# Testes para a interação com o banco de dados
