@@ -1,0 +1,5 @@
+streamlit
+pydantic
+sqlalchemy
+python-dotenv
+pymysql 
