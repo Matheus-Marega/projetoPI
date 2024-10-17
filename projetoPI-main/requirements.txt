@@ -1,0 +1,6 @@
+streamlit
+pydantic
+pydantic[email]
+sqlalchemy
+python-dotenv
+pymysql 
