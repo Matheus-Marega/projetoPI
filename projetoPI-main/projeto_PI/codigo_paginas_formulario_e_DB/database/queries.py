@@ -1,1 +1,0 @@
-# Funções para interagir com o banco de dados
